@@ -4,9 +4,9 @@ SEGUNDO PROYECTO KOTLIN:
 Aplicación de Gestión de Eventos Comunitarios.
 
 Alumnos:
-- Frank Alberto Hernández Silva	HS171707
-- Andrea Marcela Rico Figueroa	RF160050
-- Marcos Daniel Ibáñez Guevara	IG243224
+- Frank Alberto Hernández Silva.	HS171707
+- Andrea Marcela Rico Figueroa.   RF160050
+- Marcos Daniel Ibáñez Guevara.	  IG243224
 
 Enlaces:
 - GitHub: https://github.com/AlbertoHdez99/DSM-SegundoProyectoKotlin.git
