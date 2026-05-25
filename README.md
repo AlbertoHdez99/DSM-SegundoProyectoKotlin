@@ -1,7 +1,7 @@
 DSM941 G01T (Virtual)
 
 SEGUNDO PROYECTO KOTLIN:
-Aplicación de Gestión de Eventos Comunitarios
+Aplicación de Gestión de Eventos Comunitarios.
 
 Alumnos:
 - Frank Alberto Hernández Silva	HS171707
